@@ -5,8 +5,8 @@ criaCartao(
 )
 
 criaCartao(
-    'História',
-    'Qual foi a primeira Capital do Brasil?',
+    'Física',
+    'Quem foi o cientista que criou os motores sustentados a corrente eletrica alternada',
     'A Primeira capital do Brasil foi Salvador município na Bahia'
 )
 
