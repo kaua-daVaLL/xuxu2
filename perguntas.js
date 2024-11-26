@@ -1,18 +1,18 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Física',
+    'O que foi Marrie Currie?',
+    'Marie Curie (1867–1934) foi uma cientista polonesa-francesa pioneira no campo da radioatividade. Ela foi uma das figuras mais influentes da ciência moderna e a primeira mulher a ganhar o Prêmio Nobel, além de ser a única pessoa a receber o prêmio em duas áreas diferentes: Física e Química.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'História',
+    'Qual foi a primeira Capital do Brasil?',
+    'A Primeira capital do Brasil foi Salvador município na Bahia'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
+    'Filosofia',
+    'Qual o conceito de: Barbarie?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
