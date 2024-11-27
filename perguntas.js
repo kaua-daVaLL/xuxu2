@@ -1,7 +1,7 @@
 criaCartao(
     'Física',
     'Quem descobril os conceitos da radioatividade?',
-    'Foi o casal de cientístas Marrie e Pierre currie que, ao descobrirem um fenômeno não reconhecido pela Ciência, que foi levantado pelo Henri Becquerel, Começaram seus estudos'
+    'Foi o casal de cientístas Marrie e Pierre currie, que, ao descobrirem um fenômeno não reconhecido pela Ciência, levantado por Henri Becquerel, Começaram seus estudos'
 )
 
 criaCartao(
