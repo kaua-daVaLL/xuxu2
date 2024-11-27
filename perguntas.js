@@ -21,16 +21,19 @@ criaCartao(
     'Por que o racismo ainda se faz presente na sociedade contemporânea?',
     'O racismo é um contexto que aborda os ideais e a ética de um ser racional-inteligente que é resultante da capacidade de percepção sobre certo ou errado (senso crítico).'
 )
+
 criaCartao(
     'Feliz',
     'Quem descobril os conceitos da radioatividade?',
     'Foi o casal de cientístas Marrie e Pierre currie, que, ao descobrirem um fenômeno não reconhecido pela Ciência, levantado por Henri Becquerel, Começaram seus estudos.'
 )
+
 criaCartao(
     'Ana frávia',
     'Quem descobril os conceitos da radioatividade?',
     'Foi o casal de cientístas Marrie e Pierre currie, que, ao descobrirem um fenômeno não reconhecido pela Ciência, levantado por Henri Becquerel, Começaram seus estudos.'
 )
+
 criaCartao(
     'Ingdy',
     'Quem descobril os conceitos da radioatividade?',
