@@ -1,13 +1,13 @@
 criaCartao(
     'Física',
     'Quem descobril os conceitos da radioatividade?',
-    'Foi o casal de cientístas Marrie e Pierre currie, que, ao descobrirem um fenômeno não reconhecido pela Ciência, levantado por Henri Becquerel, Começaram seus estudos'
+    'Foi o casal de cientístas Marrie e Pierre currie, que, ao descobrirem um fenômeno não reconhecido pela Ciência, levantado por Henri Becquerel, Começaram seus estudos.'
 )
 
 criaCartao(
     'Física',
     'Quem foi o físico(a) responsável pela criação dos motores movidos a corrente elétrica alternada?',
-    'Nikola Tesla. O grande físico que apresentou ao mundo, de forma popular, a corrente elétrica alternada'
+    'Nikola Tesla. O grande físico que apresentou ao mundo, de forma popular, a corrente elétrica alternada.'
 )
 
 criaCartao(
