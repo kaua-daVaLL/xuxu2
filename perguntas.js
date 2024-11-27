@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Física',
-    'Quem foi físico(a) responsável pela criação dos motores movidos a corrente elétrica alternada?',
+    'Quem foi o físico(a) responsável pela criação dos motores movidos a corrente elétrica alternada?',
     'Nikola Tesla. O grande físico que apresentou ao mundo, de forma popular, a corrente elétrica alternada'
 )
 
