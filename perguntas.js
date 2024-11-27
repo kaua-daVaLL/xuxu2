@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Filosofia',
     'Quais os riscos do senso crítico humano?',
-    'O senso crítico, dá ao ser inteligente a capacidade de percepção sobre o que é "certo" ou "errado" ao seu ver. Isso ocasiona em conflitos entres os mesmos.'
+    'O senso crítico, dá ao ser inteligente a capacidade de percepção sobre o que é certo ou errado no seu ponto de vista. Isso ocasiona em conflitos entres os mesmos devido as divergências de idéias sobre "certo" e "errado".'
 )
 
 criaCartao(
