@@ -7,13 +7,13 @@ criaCartao(
 criaCartao(
     'Física',
     'Quem foi físico(a) responsável pela criação dos motores movidos a corrente elétrica alternada?',
-    'Nikola Tesla, o grande físico que apresentou, de forma popular, a corrente elétrica alternativa'
+    'Nikola Tesla. O grande físico que apresentou ao mundo, de forma popular, a corrente elétrica alternada'
 )
 
 criaCartao(
     'Filosofia',
-    'Quais os riscos do senso crítico do ser humano?',
-    'O senso crítico da ao ser humano a capacidade de pensar e sua própria opinião, e, com isso, podendo descrever o que é "certo" ou "errado".'
+    'Quais os riscos do senso crítico humano?',
+    'O senso crítico, dá ao ser inteligente a capacidade de percepção sobre o que é "certo" ou "errado" ao seu ver. Isso ocasiona em conflitos entres os mesmos.'
 )
 
 criaCartao(
