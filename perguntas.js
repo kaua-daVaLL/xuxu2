@@ -24,7 +24,7 @@ criaCartao(
 
 criaCartao(
     'Feliz',
-    'Complete a fala! Não a nada ruim que não possa...',
+    'Complete a frase: Não a nada ruim que não possa...',
     'PIORAR!'
 )
 
@@ -37,7 +37,7 @@ criaCartao(
 criaCartao(
     'CCP Interativo',
     'Qual o significado da sigla J.D.F.F.F?',
-    'Justifique detalhadamente feliz forever..'
+    'Justifique detalhadamente feliz forever.'
 )
 
 
