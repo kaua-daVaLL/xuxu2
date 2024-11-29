@@ -18,26 +18,26 @@ criaCartao(
 
 criaCartao(
     'Questão anônima interpretativa',
-    'Por que o racismo ainda se faz presente na sociedade contemporânea?',
+    'Por que o racismos ainda se faz presente na sociedade contemporânea?',
     'O racismo é um contexto que aborda os ideais e a ética de um ser racional-inteligente que é resultante da capacidade de percepção sobre certo ou errado (senso crítico).'
 )
 
 criaCartao(
     'Feliz',
-    'Quem descobril os conceitos da radioatividade?',
-    'Foi o casal de cientístas Marrie e Pierre currie, que, ao descobrirem um fenômeno não reconhecido pela Ciência, levantado por Henri Becquerel, Começaram seus estudos.'
+    'Complete a fala! Não a nada ruim que não possa...',
+    'PIORAR!'
 )
 
 criaCartao(
-    'Ana frávia',
-    'Quem é a professora legal que dá balinhas?',
-    'É a Ana Flávia.'
+    'CCP Interativo',
+    'Quem é a pessoa mais doce, delicada e meyga do Brasil?',
+    'É a Sheyla!'
 )
 
 criaCartao(
-    'Ingdy',
-    'Qual a estrutura do ácido desoxirribonucleico?',
-    'A estrutura do ácido desoxirribonucleico (DNA) são suas fitas de dupla élice que se entrelaçam entre si, compostos por bases nitrogenada.'
+    'CCP Interativo',
+    'Qual o significado da sigla J.D.F.F.F?',
+    'Justifique detalhadamente feliz forever..'
 )
 
 
