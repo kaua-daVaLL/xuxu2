@@ -30,14 +30,14 @@ criaCartao(
 
 criaCartao(
     'Ana frávia',
-    'Quem descobril os conceitos da radioatividade?',
-    'Foi o casal de cientístas Marrie e Pierre currie, que, ao descobrirem um fenômeno não reconhecido pela Ciência, levantado por Henri Becquerel, Começaram seus estudos.'
+    'Quem é a professora legal que dá balinhas?',
+    'É a Ana Flávia.'
 )
 
 criaCartao(
     'Ingdy',
-    'Quem descobril os conceitos da radioatividade?',
-    'Foi o casal de cientístas Marrie e Pierre currie, que, ao descobrirem um fenômeno não reconhecido pela Ciência, levantado por Henri Becquerel, Começaram seus estudos.'
+    'Qual a estrutura do ácido desoxirribonucleico?',
+    'A estrutura do ácido desoxirribonucleico (DNA) são suas fitas de dupla élice que se entrelaçam entre si, compostos por bases nitrogenada.'
 )
 
 
