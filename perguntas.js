@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Filosofia',
+    'Questão difícil',
     'Qual a disciplina o professor Válter ensina?',
     'Sem dúvidas artes. Com desenhos a nível Pablo Picasso. '
 )
