@@ -37,7 +37,7 @@ criaCartao(
 criaCartao(
     'CCP Interativo',
     'Qual o significado da sigla J.D.F.F.F?',
-    'Justifique detalhadamente feliz forever.'
+    'Justifique detalhadamente fisicamente feliz forever.'
 )
 
 
