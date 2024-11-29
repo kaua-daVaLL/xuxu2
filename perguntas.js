@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Questão anônima interpretativa',
-    'Por que o racismos ainda se faz presente na sociedade contemporânea?',
-    'O racismo é um contexto que aborda os ideais e a ética de um ser racional-inteligente que é resultante da capacidade de percepção sobre certo ou errado (senso crítico).'
+    'Adivinha!',
+    'O que é o que é, é mais forte que o Ulisses e AMA abraços?',
+    'É a téia'
 )
 
 criaCartao(
