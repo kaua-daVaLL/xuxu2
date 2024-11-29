@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Adivinha!',
     'O que é o que é, é mais forte que o Ulisses e AMA abraços?',
-    'É a téia'
+    'É a professora téia!'
 )
 
 criaCartao(
@@ -31,7 +31,7 @@ criaCartao(
 criaCartao(
     'CCP Interativo',
     'Quem é a pessoa mais doce, delicada e meyga do Brasil?',
-    'É a Sheyla!'
+    'Sem a menor dúvida, é a Sheyla!'
 )
 
 criaCartao(
