@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Adivinha!',
     'O que é o que é, é mais forte que o Ulisses e AMA abraços?',
-    'É a professora téia!'
+    'É a professora Téia!'
 )
 
 criaCartao(
